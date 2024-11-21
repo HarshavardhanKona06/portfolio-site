@@ -1,8 +1,9 @@
+import UnderConstruction from '@/components/sections/under-construction';
 
 export default function Home() {
   return (
     <main>
-      This hosts the complete home page.
+      <UnderConstruction />
     </main>
   );
 }
